@@ -47,3 +47,30 @@
     height: 300px;
     width: 300px;
 }
+
+
+.search{
+    width: 300px;
+    height: 40px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+}
+.btncls{
+    margin-top: 20px;
+}
+
+/* textarea */
+.txtctr{
+    text-align: center;
+}
+.searchcls{
+    position: relative;
+    left:256px;
+    margin-top: 20px;
+}
+.Sbtncls{
+    position:relative;
+    right: 256px;
+    margin-top: 20px;
+}
