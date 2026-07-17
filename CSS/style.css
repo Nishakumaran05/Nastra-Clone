@@ -1,3 +1,7 @@
+.nav{
+    z-index:1000;
+}
+
 .cont{
     display: flex;
     gap: 60px;
